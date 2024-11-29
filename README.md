@@ -18,8 +18,8 @@
   - Python
   - ROS (Robot Operating System)
   - OpenCV
-  - Embedded Systems (Linux Ubuntu)
-  - AutoCAD
+  - Embedded Systems (Rasberry PI, NVIDIA Jetson...)
+  - AutoCAD 2D
   - Autodesk Inventor
 
 ------
