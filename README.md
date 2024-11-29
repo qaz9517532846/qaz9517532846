@@ -4,6 +4,10 @@
 
 ------
 
+### Work Experience
+
+------
+
 ### Education
 
   - **National Taipei University of Technology** - Taipei, Taiwan
