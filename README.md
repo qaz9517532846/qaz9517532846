@@ -7,7 +7,7 @@
 ### Education
   - National Taipei University of Technology - Taipei | 2020
   
-  - National Formosa University - Taipei | 2018
+  - National Formosa University - Yunlin | 2018
 
 ------
 
