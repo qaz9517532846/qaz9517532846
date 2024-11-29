@@ -7,10 +7,21 @@
 ### Work Experience
   -  **Autonomous Mover Firmware R&D Engineer**
 
-      <span style="padding-left: 2ch;">ABC Co., Inc. Hsinchu, Taiwan August 2020</span>
+      <span style="padding-left: 2ch;">ABC Co., Inc. Hsinchu, Taiwan</span>
       
       <span style="padding-left: 2ch;">May 2022 - Present</span>
-  -  
+  
+  -  **Autonomous Vehicle Software Engineer**
+
+      <span style="padding-left: 2ch;">Gyro Co., Inc. Hsinchu, Taiwan</span>
+      
+      <span style="padding-left: 2ch;">Oct. 2020 - April 2022</span>
+
+  -  **Intership**
+
+      <span style="padding-left: 2ch;">Industrial Technology Research Institute. Hsinchu, Taiwan</span>
+      
+      <span style="padding-left: 2ch;">Feb. 2018 - June 2018</span>
 ------
 
 ### Education
