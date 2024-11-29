@@ -6,8 +6,10 @@
 
 ### Education
   - National Taipei University of Technology - Taipei | 2020
-  
+    - Institute of Mechatronic Engineering
+
   - National Formosa University - Yunlin | 2018
+    - Department of Automation Engineering 
 
 ------
 
