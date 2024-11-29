@@ -1,16 +1,16 @@
 ## Hi I'm Zhe-Ming, Zhang👋
 
-### Robotics Engineer, Hsinchu, Taiwan 🇹🇼
+### Robotics Engineer, Hsinchu, Taiwan
 
 ------
 
 ### Education
 
-  - **National Taipei University of Technology** - Taipei, Taiwan 🇹🇼
+  - **National Taipei University of Technology** - Taipei, Taiwan
     
     <span style="padding-left: 2ch;">**M.E. in Mechatronics Engineering Research Labs**. August 2020</span>
 
-  - **National Formosa University** - Yunlin, Taiwan 🇹🇼
+  - **National Formosa University** - Yunlin, Taiwan
     
     <span style="padding-left: 2ch;">**B.E. in Automation Engineering**. July 2018</span>
 
