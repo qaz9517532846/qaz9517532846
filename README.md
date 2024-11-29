@@ -21,7 +21,7 @@
   - Python
   - ROS (Robot Operating System)
   - OpenCV
-  - Embedded Systems (Rasberry PI, NVIDIA Jetson...)
+  - Embedded Systems (Raspberry PI, NVIDIA Jetson...)
   - AutoCAD 2D
   - Autodesk Inventor
 
