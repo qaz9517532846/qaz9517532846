@@ -17,6 +17,8 @@
   - ROS (Robot Operating System)
   - OpenCV
   - Embedded Systems (Linux Ubuntu)
+  - AutoCAD
+  - Autodesk Inventor
 
 ------
 
