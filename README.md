@@ -5,11 +5,11 @@
 
   - **National Taipei University of Technology** - Taipei, Taiwan
     
-    <span style="padding-left: 2ch;">**M.E. in Institute Mechatronics Engineering**. August 2020</span>
+    <span style="padding-left: 2ch;">**Master of Science in Institute Mechatronics Engineering**. August 2020</span>
 
   - **National Formosa University** - Yunlin, Taiwan
     
-    <span style="padding-left: 2ch;">**B.E. in Automation Engineering**. July 2018</span>
+    <span style="padding-left: 2ch;">**Bachelor of Science in Automation Engineering**. July 2018</span>
 
 ------
 
