@@ -5,9 +5,9 @@
 ------
 
 ### Education
-  - National Taipei University of Technology - Taipei|2020
+  - National Taipei University of Technology - Taipei | 2020
   
-  - National Formosa University - Taipei|2018
+  - National Formosa University - Taipei | 2018
 
 ------
 
