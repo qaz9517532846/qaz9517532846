@@ -5,11 +5,11 @@
 ------
 
 ### Education
-  - National Taipei University of Technology - Taipei | 2020
-    - Institute of Mechatronic Engineering
+  - National Taipei University of Technology - Taipei, Taiwan
+    - M.E. in Mechatronics Engineering Research Labs. August, 2020
 
-  - National Formosa University - Yunlin | 2018
-    - Department of Automation Engineering 
+  - National Formosa University - Yunlin, Taiwan
+    - B.E. in Automation Engineering. July, 2018
 
 ------
 
