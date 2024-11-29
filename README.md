@@ -6,7 +6,9 @@
 
 ### Work Experience
   -  **Autonomous Mover Firmware R&D Engineer**
+
       <span style="padding-left: 2ch;">ABC Co., Inc. Hsinchu, Taiwan August 2020</span>
+      
       <span style="padding-left: 2ch;">May 2022 - Present</span>
   -  
 ------
