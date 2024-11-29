@@ -13,7 +13,7 @@
   
   -  **Autonomous Vehicle Software Engineer**
 
-      <span style="padding-left: 2ch;">Gyro Co., Inc. Hsinchu, Taiwan</span>
+      <span style="padding-left: 2ch;">Gyro Systems., Inc. Hsinchu, Taiwan</span>
       
       <span style="padding-left: 2ch;">Oct. 2020 - April 2022</span>
 
