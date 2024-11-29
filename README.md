@@ -5,8 +5,6 @@
 ------
 
 ### Education
-**National Taipei University of Technology** - Taipei, Taiwan  
-   **M.E. in Mechatronics Engineering Research Labs**. August 2020
 
   - **National Taipei University of Technology** - Taipei, Taiwan
     - **M.E. in Mechatronics Engineering Research Labs**. August 2020
