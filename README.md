@@ -13,7 +13,7 @@
 
 ------
 
-### Skill
+### Skills
   - C/C++/C#
   - Python
   - ROS (Robot Operating System)
