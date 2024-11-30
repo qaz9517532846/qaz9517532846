@@ -14,8 +14,7 @@
 ------
 
 ### Skills
-  - C/C++/C#
-  - Python
+  - Programing(C/C#/C++, Python...)
   - ROS (Robot Operating System)
   - OpenCV
   - Embedded Systems (Raspberry PI, NVIDIA Jetson...)
