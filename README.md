@@ -35,7 +35,6 @@
 ------
 
 ### Learning
-  - AI/Deep Learning (Vision, Audio)
+  - AI/Deep Learning
   - ROS2
-  - STM32 MCU (NUCLEO-H743ZI2 board)
-  - Motor Control 
+  - NVIDIA IssacSim
