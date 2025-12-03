@@ -37,4 +37,4 @@
 ### Learning
   - AI/Deep Learning
   - ROS2
-  - NVIDIA IssacSim
+  - NVIDIA IsaacSim
