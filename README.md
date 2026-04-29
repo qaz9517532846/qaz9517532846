@@ -1,6 +1,26 @@
 ## Hi I'm Zhe-Ming, Zhang👋
 ------
 
+### Experience
+
+  - **Cooler Master Co., Ltd.** - Taipei, Taiwan
+    
+    <span style="padding-left: 2ch;">**Senior Software Engineer**. April 2026 - Today</span>
+
+  - **Asia Optical Co., Inc.** - Hsinchu, Taiwan
+    
+    <span style="padding-left: 2ch;">**Autonomous Mover Firmware R&D Engineer**. May 2022 - April 2026</span>
+
+  - **Gyro System Inc.** - Hsinchu, Taiwan
+    
+    <span style="padding-left: 2ch;">**Autonomous Vehicle Software Engineer**. Oct 2020 - April 2022</span>
+
+  - **Industrial Technology Research Institute** - Hsinchu, Taiwan
+    
+    <span style="padding-left: 2ch;">**Internship Trainee**. Feb 2018 - June 2018</span>
+
+------
+
 ### Education
 
   - **National Taipei University of Technology** - Taipei, Taiwan
