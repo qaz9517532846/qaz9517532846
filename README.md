@@ -15,7 +15,7 @@
     
     <span style="padding-left: 2ch;">**Autonomous Vehicle Software Engineer**. Oct 2020 - April 2022</span>
 
-  - **Industrial Technology Research Institute** - Hsinchu, Taiwan
+  - **Industrial Technology Research Institute (ITRI)** - Hsinchu, Taiwan
     
     <span style="padding-left: 2ch;">**Internship Trainee**. Feb 2018 - June 2018</span>
 
